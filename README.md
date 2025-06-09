@@ -1,4 +1,4 @@
-<h1 align="center">Hi Rusian</h1>
+<h1 align="center">Rusian</h1>
 <h3 align="center">Pro programmer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
